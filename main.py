@@ -1,0 +1,1 @@
+print("This repository is about learning GIT and GITHUB")
