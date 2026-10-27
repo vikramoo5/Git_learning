@@ -3,3 +3,5 @@ This is for learning about Git
 I have made changes.
 
 Vs code changes
+
+git changes
