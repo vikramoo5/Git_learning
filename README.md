@@ -2,5 +2,4 @@
 This is for learning about Git
 I have made changes.
 
-
-Making git changes
+Vs code changes
